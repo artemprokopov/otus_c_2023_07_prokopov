@@ -1,1 +1,2 @@
-# otus_c_2023_07_prokopov
+#Group OTUS C-2023-07
+#Student Prokopov Artem
