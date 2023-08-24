@@ -45,6 +45,15 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+
+# sublime
+*.sublime-workspace
+*.sublime-project
+
+#Files
+*.jpg
+*.pdf
+
 .tmp_versions/
 modules.order
 Module.symvers
